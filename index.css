@@ -1,0 +1,85 @@
+body{
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #6943FF;
+    
+}
+.upper{
+    display: block;
+    margin: -10 auto;
+    background-color: #6943FF;
+    height: 285px;
+    background-size: cover;
+}
+h1{
+    margin: 35px auto;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    font-family: sans-serif;
+}
+input{
+    color: #FFFFFF;
+    display: block;
+    margin: 25px auto;
+    background-color: transparent;
+    font-size: 58px;
+    width: 117px;
+    height: 83px;
+    left: 217px;
+    top: 101px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    border: 2px solid #B295FF;
+}
+button{
+    display: block;
+    margin: 30px auto;
+    padding: 9px 27px;
+    width: 117px;
+    height: 42px;
+    left: 217px;
+    top: 209px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+.lower{
+    display: grid;
+    margin: 0 auto;
+    background: #1F2937;
+    height: 729px;
+    font-family: sans-serif;
+}
+h3{
+    color: #CCC1FF;
+    font-family: sans-serif;
+}
+p{
+    color:#FFFFFF;
+    font-family: sans-serif;
+}
+.feet{
+    height: 100px;
+    width: 500px;
+    margin: 30px auto;
+    background-color: #273549;
+}
+.gallons{
+    height: 100px;
+    width: 500px;
+    margin: -200px auto;
+    background-color: #273549;
+}
+.pounds{
+    height: 100px;
+    width: 500px;
+    margin: -270px auto;
+    background-color: #273549;
+}
